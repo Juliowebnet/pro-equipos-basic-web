@@ -38,7 +38,7 @@
                         <a href="${section.name}/1.JPEG" class="overlay text-center ">
                             <div class="display-table">
                                 <div class="table-cell padding-15">
-                                    <h4 class="mb-10 fz-16 text-white display-inline-block bdrs-3 padding-25 ptb-15 bg-yellow">${section.nick}</h4>
+                                    <h4 class="mb-10 fz-16 text-black display-inline-block bdrs-3 padding-25 ptb-15 bg-yellow">${section.nick}</h4>
                                     <h2 class="no-margin fz-14" style="color: rgb(0, 0, 0);">¡Haz click y desliza para ver el proyecto!</h2>
                                 </div>
                             </div>
