@@ -13,3 +13,7 @@
     flex-wrap: wrap;
     gap: 16px;
 }
+
+.about-us__container {
+    height: 750px;
+}
