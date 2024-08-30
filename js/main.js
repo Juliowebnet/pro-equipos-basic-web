@@ -345,12 +345,12 @@
 $(window).on('scroll', function() {
     if ($(this).scrollTop() > 600) {	
         $('#scroll-top').fadeIn();
-        $('#whatsapp-button').css('bottom', '90px'); // Adjust bottom position of WhatsApp button
-		$('#instagram-button').css('bottom', '140px'); // Adjust bottom position of WhatsApp button
+        $('#whatsapp-button').css('bottom', '140px'); // Adjust bottom position of WhatsApp button
+		$('#instagram-button').css('bottom', '90px'); // Adjust bottom position of WhatsApp button
     } else {
         $('#scroll-top').css('display', 'none');
-        $('#whatsapp-button').css('bottom', '20px'); // Reset bottom position of WhatsApp button
-		$('#instagram-button').css('bottom', '70px'); // Adjust bottom position of WhatsApp button
+        $('#whatsapp-button').css('bottom', '70px'); // Reset bottom position of WhatsApp button
+		$('#instagram-button').css('bottom', '20px'); // Adjust bottom position of WhatsApp button
     }
 });
 /*=========================================================================

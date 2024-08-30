@@ -37,7 +37,7 @@
 .instagram-btn {
   position: fixed;
   /* Position the button */
-  bottom: 70px;
+  bottom: 20px;
   /* Distance from bottom of viewport */
   right: 40px;
   /* Distance from right side of viewport */
@@ -70,7 +70,7 @@
 .whatsapp-btn {
   position: fixed;
   /* Position the button */
-  bottom: 20px;
+  bottom: 70px;
   /* Distance from bottom of viewport */
   right: 40px;
   /* Distance from right side of viewport */

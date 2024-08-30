@@ -1,5 +1,6 @@
 .logo {
     width: 120px;
+    margin-left: 15px;
 }
 
 .slider-arrow {
@@ -16,4 +17,12 @@
 
 .about-us__container {
     height: 750px;
+}
+
+.about-us__img {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    background-size: contain;
+    background-position: center center;
 }
